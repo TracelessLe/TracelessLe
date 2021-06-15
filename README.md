@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![TracelessLe's github stats](https://github-readme-stats.vercel.app/api?username=TracelessLe&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-⚡ Research interests: Computer Vision, Video De/Encoding, CUDA ...
+⚡ Research interests: Computer Vision, Video En/Decoding, CUDA ...
 
 ✨ If my work helps you, please give a star.
 
